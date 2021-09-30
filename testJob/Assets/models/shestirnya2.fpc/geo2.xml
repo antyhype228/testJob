@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Autodesk_Cache_File>
+  <cacheType Type="OneFile" Format="mcc"/>
+  <time Range="100-18000"/>
+  <cacheTimePerFrame TimePerFrame="100"/>
+  <cacheVersion Version="2.0"/>
+  <Channels>
+    <channel0 ChannelName="geo2" ChannelType="DoubleVectorArray" ChannelInterpretation="Points" SamplingType="Regular" SamplingRate="100" StartTime="100" EndTime="18000"/>
+  </Channels>
+</Autodesk_Cache_File>
